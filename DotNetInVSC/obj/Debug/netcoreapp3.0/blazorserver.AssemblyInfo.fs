@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("blazorserver")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+234c9f1ecee192a4f49fc8fcab814f3abbc7b59a")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba2345d8cfcfc6b73b290508f7ba2932ac957e8e")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("blazorserver")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("blazorserver")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
